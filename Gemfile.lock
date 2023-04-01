@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pkg-config (1.5.1)
+    rmagick (5.2.0)
+      pkg-config (~> 1.4)
+    tty-option (0.2.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  rmagick
+  tty-option
+
+BUNDLED WITH
+   2.4.3
